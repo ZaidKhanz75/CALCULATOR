@@ -1,3 +1,4 @@
-# Oasis_InfoByte_Calculator
+# Calculator
  Calculator developed using HTML, CSS and JavaScript
-Click the link to preview app: https://zaidkhanz75.github.io/Oasis_InfoByte_CALCULATOR/
+Click the link to preview app: https://zaidkhanz75.github.io/CALCULATOR/
+
